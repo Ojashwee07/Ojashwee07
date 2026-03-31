@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web applications like PDF Translator and Expense Tracking System using React, Java, and MongoDB<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development, Java Backend, and AI-based applications<br><br>🤝 I’m looking for help with<br>Advanced Data Structures & Algorithms and scalable backend system design<br><br>🌱 I’m currently learning<br>Spring Boot, System Design, and improving problem-solving skills (DSA)<br><br>💬 Ask me about<br>Java, Python, React.js, MongoDB, DSA, and Web Development<br><br>⚡ Fun fact<br>I have solved 250+ DSA problems and love turning real-world problems into code 🚀<br>
+🔭 I’m working on<br>Full-stack web applications like PDF Translator and Expense Tracking System using React, Java, and MongoDB<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development, Java Backend, and AI-based applications<br><br>🤝 I’m looking for help with<br>Advanced Data Structures & Algorithms and scalable backend system design<br><br>🌱 I’m currently learning<br>Spring Boot, System Design, and improving problem-solving skills (DSA)<br><br>💬 Ask me about<br>Java, Python, React.js, MongoDB, DSA, and Web Development<br><br>⚡ Fun fact<br>I have solved 250+ DSA problems and love turning real-world problems into code 🚀<br>
 
 
 ## 🌐 Socials:
