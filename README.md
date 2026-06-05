@@ -1,21 +1,121 @@
-# 💫 About Me:
-🔭 I’m worked on ONGC <br>Full-stack web applications like PDF Translator and Expense Tracking System using React, Java, and MongoDB<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development, Java Backend, and AI-based applications<br><br>🤝 I’m looking for help with<br>Advanced Data Structures & Algorithms and scalable backend system design<br><br>🌱 I’m currently learning<br>Spring Boot, System Design, and improving problem-solving skills (DSA)<br><br>💬 Ask me about<br>Java, Python, React.js, MongoDB, DSA, and Web Development<br><br>⚡ Fun fact<br>I have solved 250+ DSA problems and love turning real-world problems into code 🚀<br>
+# Hi 👋, I'm Ojashwee
 
+### Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rish.idayal07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ojashwee-336005285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojashwee2003@gmail.com) 
+🔭 Worked at **ONGC** and built full-stack applications focused on solving real-world problems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ojashwee07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ojashwee07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🌱 Currently learning **Spring Boot, System Design, AWS, and Advanced Data Structures & Algorithms**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ojashwee07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+👯 Looking to collaborate on **Open Source, Full Stack Development, Cloud, and AI/ML Projects**
+
+💬 Ask me about **Java, Python, React.js, Node.js, MongoDB, AWS, DSA, and Web Development**
+
+⚡ Fun Fact: Solved **250+ DSA problems** and enjoy turning ideas into scalable software solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ojashwee07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ojashweetech/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ojashwee2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 PDF Translator
+
+Built a full-stack PDF translation platform with automated text extraction and multilingual translation capabilities.
+
+### 📌 Expense Tracking System
+
+Developed a personal finance management system with expense categorization, analytics, and reporting.
+
+### 📌 MNIST Digit Recognition using CNN
+
+Implemented a Convolutional Neural Network (CNN) using TensorFlow and Keras for handwritten digit classification.
+
+### 📌 Advanced MNIST CNN Classifier
+
+Designed an optimized CNN architecture using Batch Normalization and Dropout to improve accuracy and reduce overfitting.
+
+### 📌 CIFAR-10 Cat vs Dog Classifier
+
+Built an image classification model using CNN, Data Augmentation, Early Stopping, and Regularization techniques.
+
+➡️ **View All Projects:**
+https://github.com/Ojashwee07?tab=repositories
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ojashwee07\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ojashwee07\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ojashwee07\&theme=tokyonight\&no-frame=true)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ojashwee07\&theme=tokyo-night)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Ojashwee07\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to connect with me and explore my repositories.
