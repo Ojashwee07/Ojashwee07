@@ -17,7 +17,7 @@
 - 🤖 Built **TriageAI** — a containerized Reinforcement Learning inference system with Q-Learning and FastAPI
 - 🛒 Built **Shringar** — a distributed MERN SaaS e-commerce platform deployed on AWS with CI/CD
 - 💡 Currently learning **System Design, Spring Boot, and Advanced DSA**
-- 🧠 Solved **350+ LeetCode problems** including **63 Hard** | **5★ Gold Badge in Java** on HackerRank
+- 🧠 Solved **350+ LeetCode problems** including **63+ Hard** | **5★ Gold Badge in Java** on HackerRank
 - 🏆 Participated in **Smart India Hackathon**, **NASA Space Apps Challenge**, and **BRAHMAX 1.0**
 - 🌱 **GeeksforGeeks Campus Mantri** for 6 months — led campus tech initiatives
 
