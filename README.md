@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ojashwee 👋
+# Hi, I'm Ojashwee 
 
 ### Software Engineer · Full Stack · AI/ML · Cloud & DevOps
 
