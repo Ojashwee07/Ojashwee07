@@ -102,17 +102,6 @@ End-to-end conversational ordering system built on n8n, using an AI Agent node (
 
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ojashwee07&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
-<br>
 
 ## 📈 Contribution Graph
 
