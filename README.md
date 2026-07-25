@@ -107,6 +107,22 @@ End-to-end conversational ordering system built on n8n, using an AI Agent node (
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ojashwee07&theme=tokyonight&no-frame=true&row=1)
+
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojashwee07&theme=tokyo-night)
+
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ojashwee07&label=Profile%20Views&color=0e75b6&style=flat)
