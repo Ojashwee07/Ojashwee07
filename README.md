@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ojashwee 👋
+# Hi, I'm Ojashwee 
 
 ### Full-Stack Developer · GenAI & LLM Integrations · Automation Engineering
 
@@ -98,8 +98,8 @@ End-to-end conversational ordering system built on n8n, using an AI Agent node (
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ojashwee07&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07&layout=compact&theme=tokyonight&hide_border=true" />
+##<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ojashwee07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07&layout=compact&theme=tokyonight&hide_border=true" />##
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ojashwee07&theme=tokyonight&hide_border=true)
 
