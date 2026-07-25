@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ojashwee 
+# Hi, I'm Ojashwee 👋
 
-### Software Engineer · Full Stack · AI/ML · Cloud & DevOps
+### Full-Stack Developer · GenAI & LLM Integrations · Automation Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojashweetech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojashwee2003@gmail.com)
@@ -11,39 +11,41 @@
 
 </div>
 
----
+<br>
 
-- 🔭 Interned at **ONGC Videsh Limited** — built distributed data pipelines and REST API integrations reducing processing overhead by **90%**
-- 🤖 Built **TriageAI** — a containerized Reinforcement Learning inference system with Q-Learning and FastAPI
-- 🛒 Built **Shringar** — a distributed MERN SaaS e-commerce platform deployed on AWS with CI/CD
-- 💡 Currently learning **System Design, Spring Boot, and Advanced DSA**
-- 🧠 Solved **350+ LeetCode problems** including **63+ Hard** | **5★ Gold Badge in Java** on HackerRank
+## About Me
+
+- 🎓 Third-year **B.Tech Computer Science** student at Baderia Global Institute, Jabalpur — graduating 2027
+- 💼 Interned at **ONGC Videsh Limited** — built REST API integrations for a distributed data pipeline, cutting manual processing overhead by **90%**
+- 🛠️ Build full-stack applications (React/Node.js/Express) and automation systems powered by LLM APIs (Gemini, Qwen2.5)
+- 🧠 **350+ LeetCode problems solved** (212 in Java, 63+ Hard) · **5★ Gold Badge in Java** on HackerRank
 - 🏆 Participated in **Smart India Hackathon**, **NASA Space Apps Challenge**, and **BRAHMAX 1.0**
-- 🌱 **GeeksforGeeks Campus Mantri** for 6 months — led campus tech initiatives
+- 🌱 **GeeksforGeeks Campus Mantri** for 6 months — led campus tech workshops and peer mentoring
+- 📚 Currently sharpening **System Design** and **Advanced DSA**
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-### 🧠 [TriageAI — Reinforcement Learning Decision System](https://github.com/Ojashwee07/TriageAI)
-Containerized AI inference system using Q-Learning, probabilistic scoring, and FastAPI. Designed for scalable, concurrent decision-making workflows deployed via Docker.
-`Python` `FastAPI` `Docker` `Reinforcement Learning` `Q-Learning` `Pydantic`
+### 🛍️ [Shringar — Full-Stack E-Commerce Platform](https://github.com/Ojashwee07/Shringar)
+Distributed SaaS platform with a React frontend and Node.js/Express backend exposing 15+ REST APIs (auth, product, cart, order, admin). JWT authentication, salted password hashing, and Razorpay/Stripe payment integration with HMAC signature verification. Deployed on AWS EC2.
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay/Stripe` `AWS EC2`
 
-### 🛍️ [Shringar — Distributed SaaS E-Commerce Platform](https://github.com/Ojashwee07/Shringar)
-Full-stack MERN platform with real-time analytics dashboard, 15+ optimized APIs, 35% DB performance improvement via indexing, deployed on AWS with CI/CD pipelines.
-`React` `Node.js` `MongoDB` `Docker` `AWS` `CI/CD`
+### 🤖 [TriageAI — LLM-Integrated Decision Automation Engine](https://github.com/Ojashwee07/TriageAI)
+Containerized decision engine integrating the Qwen2.5-72B-Instruct LLM API into a rule-based Q-Learning system, with a FastAPI + Pydantic service layer for validated, structured outputs.
+`Python` `FastAPI` `Pydantic` `Docker` `Qwen2.5-72B-Instruct`
 
-### 🖼️ [CIFAR-10 Image Classifier](https://github.com/Ojashwee07)
-CNN-based image classifier with Data Augmentation, Early Stopping, and Regularization techniques for robust multi-class classification.
-`Python` `TensorFlow` `Keras` `CNN`
+### 💰 [ETMS — GenAI-Powered Expense Automation](https://github.com/Ojashwee07/ETMS)
+Expense management system using the Google Gemini API to auto-extract structured data from unstructured text, plus a Splitwise-style greedy debt-simplification feature for group expense reconciliation. FastAPI + MongoDB backend.
+`Python` `FastAPI` `MongoDB` `Google Gemini API`
 
-### 💰 [Expense Tracking Management System](https://github.com/Ojashwee07)
-Personal finance system with AI-powered spending analysis (Gemini 2.0 Flash), split expense feature, MongoDB backend, and monthly report generation.
-`Python` `MongoDB` `Gemini API` `FastAPI`
+### 🍽️ Restaurant Order Automation Bot — n8n Workflow
+End-to-end conversational ordering system built on n8n, using an AI Agent node (Gemini) with session memory, Telegram webhook triggers, and real-time inventory sync via Google Sheets. Containerized with Docker.
+`n8n` `Google Gemini API` `Telegram API` `Docker` `Google Sheets`
 
-➡️ **[View All Projects →](https://github.com/Ojashwee07?tab=repositories)**
+➡️ **[View all repositories →](https://github.com/Ojashwee07?tab=repositories)**
 
----
+<br>
 
 ## 💻 Tech Stack
 
@@ -51,25 +53,22 @@ Personal finance system with AI-powered spending analysis (Gemini 2.0 Flash), sp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud, DevOps & Tools**
 
@@ -78,12 +77,12 @@ Personal finance system with AI-powered spending analysis (Gemini 2.0 Flash), sp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-**AI/ML**
+**GenAI & Automation**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+<br>
 
 ## 🏅 Certifications
 
@@ -93,37 +92,20 @@ Personal finance system with AI-powered spending analysis (Gemini 2.0 Flash), sp
 | AWS | Cloud Foundations | Mar 2026 |
 | ServiceNow University | Virtual Internship — Administration, Agentic AI, ATF | Apr 2026 |
 
----
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojashwee07&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ojashwee07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07&layout=compact&theme=tokyonight&hide_border=true" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ojashwee07&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojashwee07&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ojashwee07&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojashwee07&theme=tokyo-night)
-
----
+<br>
 
 <div align="center">
 
