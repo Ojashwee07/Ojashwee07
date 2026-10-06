@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ojashwee 
+# Hi, I'm Ojashwee
 
 ### Full-Stack Developer · GenAI & LLM Integrations · Automation Engineering
 
@@ -15,11 +15,12 @@
 
 ## About Me
 
-- 🎓 Third-year **B.Tech Computer Science** student at Baderia Global Institute, Jabalpur — graduating 2027
+- 🎓 Final-year **B.Tech Computer Science** student at Baderia Global Institute, Jabalpur — graduating 2027
 - 💼 Interned at **ONGC Videsh Limited** — built REST API integrations for a distributed data pipeline, cutting manual processing overhead by **90%**
+- 🌍 Completed the **1M1B AI for Sustainability** virtual internship (with AICTE & IBM SkillsBuild) — explored **Agentic AI** and **RAG** for UN SDG-aligned solutions
 - 🛠️ Build full-stack applications (React/Node.js/Express) and automation systems powered by LLM APIs (Gemini, Qwen2.5)
-- 🧠 **350+ LeetCode problems solved** (212 in Java, 63+ Hard) · **5★ Gold Badge in Java** on HackerRank
-- 🏆 Participated in **Smart India Hackathon**, **NASA Space Apps Challenge**, and **BRAHMAX 1.0**
+- 🧠 **440+ LeetCode problems solved** (90+ Hard) · **5★ Gold Badge in Java** on HackerRank
+- 🏆 Participated in **Smart India Hackathon**, **NASA Space Apps Challenge**, **BRAHMAX 1.0**, and **Adobe University Hackathon**
 - 🌱 **GeeksforGeeks Campus Mantri** for 6 months — led campus tech workshops and peer mentoring
 - 📚 Currently sharpening **System Design** and **Advanced DSA**
 
