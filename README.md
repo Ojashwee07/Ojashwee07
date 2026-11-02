@@ -95,15 +95,6 @@ End-to-end conversational ordering system built on n8n, using an AI Agent node (
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ojashwee07&theme=tokyonight&hide_border=true)
-
-</div>
-
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojashwee07&theme=tokyo-night)
