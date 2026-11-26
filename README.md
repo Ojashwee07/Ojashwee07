@@ -93,12 +93,6 @@ An end-to-end conversational ordering system built on n8n. It uses an AI Agent n
 
 ---
 
-## 📈 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojashwee07&theme=tokyo-night)
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ojashwee07&label=Profile%20Views&color=0e75b6&style=flat)
